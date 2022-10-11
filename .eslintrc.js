@@ -2,8 +2,7 @@ module.exports = {
   extends: [
     "mantine",
     "plugin:@next/next/recommended",
-    "plugin:jest/recommended",
-    "plugin:storybook/recommended"
+    "plugin:jest/recommended"
   ],
   plugins: [
     "testing-library",
